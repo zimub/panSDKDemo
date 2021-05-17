@@ -1,0 +1,6 @@
+framework module sdktrytry {
+  umbrella header "sdktrytry.h"
+
+  export *
+  module * { export * }
+}
